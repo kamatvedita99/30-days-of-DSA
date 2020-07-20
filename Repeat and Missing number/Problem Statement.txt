@@ -1,0 +1,13 @@
+Given an array arr[] of size N, each integer from the range [1, N] appears exactly once except A which appears twice and B which is missing. The task is to find the numbers A and B.
+
+Examples:
+
+Input: arr[] = {1, 2, 2, 3, 4}
+Output:
+A = 2
+B = 5
+
+Input: arr[] = {5, 3, 4, 1, 1}
+Output:
+A = 1
+B = 2
